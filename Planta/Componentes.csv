@@ -1,0 +1,7 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"U2",1," LCD 16 x 2"
+"Rpot1",1,"250 kΩ Potenciômetro"
+"R1",1,"220 Ω Resistor"
+"KEYPAD1",1," Teclado 4x4"
+"SERVO1",1,"Posicional Micro servo"
